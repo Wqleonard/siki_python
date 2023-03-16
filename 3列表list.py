@@ -40,7 +40,6 @@ names = [['ab', 'abc', 'ml'], ['ls,lsi'], ['xm', 'xh'], 1, 'abc']
 
 # 将列表元素追加到已有列表的结尾 逐个添加
 names.extend(['haha', 'xixi', 'hehe'])
-# print(names)
 
 # 列表遍历
 # names = ['lh', 'rain', 'jack', 'xx', 'pq', 'black']

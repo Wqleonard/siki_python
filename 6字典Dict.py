@@ -50,7 +50,7 @@ stu1 = {'name': 'wq',
 # # 转化为列表
 # keys = list(stu1.keys())
 # for i in stu1.items():
-#     print(i)  # i是key value的元组
+#     print(i)  # i是(key,value)的元组
 #     print(i[0], i[1])  # key和value
 # for k, v in stu1.items():
 #     print(k, v)  # 键值对
